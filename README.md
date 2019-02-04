@@ -15,3 +15,11 @@ docker tag kainonly/kubernetes-dashboard-amd64:v1.10.1 k8s.gcr.io/kubernetes-das
 // or
 docker tag ccr.ccs.tencentyun.com/kainonly/kubernetes-dashboard-amd64:v1.10.1 k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
 ```
+
+删除镜像
+
+```shell
+docker tag kainonly/kubernetes-dashboard-amd64:v1.10.1
+// or
+docker tag ccr.ccs.tencentyun.com/kainonly/kubernetes-dashboard-amd64:v1.10.1
+```
